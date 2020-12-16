@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <name>Разкази</name>
+        <author>Илия Биволарски</author>
+    </book>
+    <book>
+        <name>Между 12 и 12</name>
+        <author>Владимир Янев</author>
+    </book>
+    <book>
+        <name>Последната жътва на Козела</name>
+        <author>Йордан Матеев</author>
+    </book>
+    <book>
+        <name>Сага за Салабашеви - том 1The Fifth Season</name>
+        <author>Любен Станев</author>
+    </book>
+    <book>
+        <name>Нарушаване на беззаконието</name>
+        <author>Христо Караславов</author>
+    </book>
+    <book>
+        <name>Отивам някъде с корубата на времето. Разкази</name>
+        <author>Златка Христова</author>
+    </book>
+    <book>
+        <name>Из живота на мравките. Разкази и рисунки на един художник</name>
+        <author>Иван Лазаров</author>
+    </book>
+    <book>
+        <name>Сказание за Сирм: Царят на Трибалите</name>
+        <author>Цветко Стеев</author>
+    </book>
+</library>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <name>Dart</name>
+        <author>Alice Oswald</author>
+    </book>
+    <book>
+        <name>The Beauty of the Husband</name>
+        <author>Anne Carson</author>
+    </book>
+    <book>
+        <name>Postwar</name>
+        <author>Tony Judt</author>
+    </book>
+    <book>
+        <name>The Amazing Adventures of Kavalier and Clay</name>
+        <author>Michael Chabon</author>
+    </book>
+    <book>
+        <name>Underland</name>
+        <author>Robert Macfarlane</author>
+    </book>
+    <book>
+        <name>The Omnivore’s Dilemma</name>
+        <author>Michael Pollan</author>
+    </book>
+    <book>
+        <name>Women and Power</name>
+        <author>Mary Beard</author>
+    </book>
+    <book>
+        <name>True History of the Kelly Gang</name>
+        <author>Peter Carey</author>
+    </book>
+</library>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <name>Откачени съботи</name>
+        <author>Елена Пеева-Никифоридис</author>
+    </book>
+    <book>
+        <name>Бермуда. Четири сатирични пиеси</name>
+        <author>Атанас Арнаудов</author>
+    </book>
+    <book>
+        <name>От другата страна</name>
+        <author>Огнян Дъскарев</author>
+    </book>
+    <book>
+        <name>Последните от своя вид</name>
+        <author>Светлана Дичева</author>
+    </book>
+    <book>
+        <name>Съчинения в 10 тома - том 7: Нова земя</name>
+        <author>Иван Вазов</author>
+    </book>
+    <book>
+        <name>앨리스 죽이기</name>
+        <author>고바야시 야스미</author>
+    </book>
+    <book>
+        <name>모든 것을 기억하는 남자</name>
+        <author>데이비드 발다치</author>
+    </book>
+    <book>
+        <name>편의점</name>
+        <author>유기농볼셰비키, 류연웅 외 3명</author>
+    </book>
+</library>

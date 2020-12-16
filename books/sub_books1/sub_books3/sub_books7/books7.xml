@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>    
+    <book>
+        <name>Harvest</name>
+        <author>Jim Crace</author>
+    </book>
+    <book>
+        <name>Stories of Your Life and Others</name>
+        <author>Ted Chiang</author>
+    </book>
+    <book>
+        <name>The Spirit Level</name>
+        <author>Richard Wilkinson and Kate Pickett</author>
+    </book>
+    <book>
+        <name>The Fifth Season</name>
+        <author> NK Jemisin</author>
+    </book>
+    <book>
+        <name>Съчинения в 10 тома - том 7: Нова земя</name>
+        <author>Иван Вазов</author>
+    </book>
+    <book>
+        <name>Signs Preceding the End of the World</name>
+        <author>Yuri Herrera</author>
+    </book>
+    <book>
+        <name>Thinking, Fast and Slow</name>
+        <author>Daniel Kahneman</author>
+    </book>
+    <book>
+        <name>Drive Your Plow Over the Bones of the Dead</name>
+        <author>Olga Tokarczuk</author>
+    </book>
+</library>

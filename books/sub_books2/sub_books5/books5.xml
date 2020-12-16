@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <name>Gone Girl</name>
+        <author>Gillian Flynn</author>
+    </book>
+    <book>
+        <name>On Writing</name>
+        <author>Stephen King</author>
+    </book>
+    <book>
+        <name>The Immortal Life of Henrietta Lacks</name>
+        <author>Rebecca Skloot</author>
+    </book>
+    <book>
+        <name>Mother’s Milk</name>
+        <author>Edward St Aubyn</author>
+    </book>
+    <book>
+        <name>This House of Grief</name>
+        <author>Helen Garner</author>
+    </book>
+    <book>
+        <name>3インチ（６）</name>
+        <author>多口はじめ</author>
+    </book>
+    <book>
+        <name>В спиралите на времето</name>
+        <author>Златина Георгиева</author>
+    </book>
+    <book>
+        <name>Заглъхване или как всичко и нищо се сливат накрая</name>
+        <author>Светослав Ставрев</author>
+    </book>
+</library>

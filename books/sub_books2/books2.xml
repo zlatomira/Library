@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <name>Days Without End</name>
+        <author>Sebastian Barry</author>
+    </book>
+    <book>
+        <name>Nothing to Envy</name>
+        <author>Barbara Demick</author>
+    </book>
+    <book>
+        <name>The Age of Surveillance Capitalism</name>
+        <author>Chris Ware</author>
+    </book>
+    <book>
+        <name>Notes on a Scandal</name>
+        <author>Zoë Heller</author>
+    </book>
+    <book>
+        <name>The Infatuations</name>
+        <author>Javier Marías</author>
+    </book>
+    <book>
+        <name>The Constant Gardener</name>
+        <author>John le Carré</author>
+    </book>
+    <book>
+        <name>The Silence of the Girls</name>
+        <author>Pat Barker</author>
+    </book>
+    <book>
+        <name>Seven Brief Lessons on Physics</name>
+        <author>Carlo Rovelli</author>
+    </book>
+</library>

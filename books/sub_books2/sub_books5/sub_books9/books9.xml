@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <name>Малка енциклопедия на приятелствата</name>
+        <author>Влади Киров</author>
+    </book>
+    <book>
+        <name>В дебрите на любовта</name>
+        <author>Пепи Ниетер</author>
+    </book>
+    <book>
+        <name>До дъно!</name>
+        <author>Мирослав Костов</author>
+    </book>
+    <book>
+        <name>Hищo cepиoзнo</name>
+        <author>Ванда Василева</author>
+    </book>
+    <book>
+        <name>Хей, Крали Марко</name>
+        <author>Кирил Топалов</author>
+    </book>
+    <book>
+        <name>Съчинения в 10 тома - том 1: Избавление</name>
+        <author>Иван Вазов</author>
+    </book>
+</library>

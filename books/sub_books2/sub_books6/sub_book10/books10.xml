@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <name>Small Island</name>
+        <author>Andrea Levy</author>
+    </book>
+    <book>
+        <name>Brooklyn</name>
+        <author>Colm Tóibín</author>
+    </book>
+    <book>
+        <name>Oryx and Crake</name>
+        <author>Margaret Atwood</author>
+    </book>
+    <book>
+        <name>Why Be Happy When You Could Be Normal?</name>
+        <author>Jeanette Winterson</author>
+    </book>
+    <book>
+        <name>Night Watch</name>
+        <author>Terry Pratchett</author>
+    </book>
+    <book>
+        <name>Persepolis</name>
+        <author>Marjane Satrapi</author>
+    </book>
+    <book>
+        <name>Human Chain</name>
+        <author>Seamus Heaney</author>
+    </book>
+    <book>
+        <name>Levels of Life</name>
+        <author>Julian Barnes</author>
+    </book>
+</library>
