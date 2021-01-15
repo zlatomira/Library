@@ -1,0 +1,13 @@
+{
+    "name": "app/library",
+    "description": "Aplliciation where we can instert books with their authors in a database and make a search from a web page.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zpetkova.dev",
+            "email": "zpetkova.dev@gmail.com"
+        }
+    ],
+
+    "require": {}
+}
